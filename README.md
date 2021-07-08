@@ -1,7 +1,7 @@
 # InstallShield2020-Documents
 InstallShield2020 中文文档
 
-
+使用 `Sisulizer` 和 [docts](https://github.com/foyoux/docts) 进行翻译
 
 ## 预览
 
